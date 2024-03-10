@@ -1,11 +1,11 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
+	<id>com.123maksmiernik.divise</id>
 	<name>Old Package</name>
 	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
-			<otherVersions>unsupported</otherVersions>
+			<maxiOS>16.0</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
@@ -13,7 +13,11 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>Divisé is a Coolbooter-esque app which is capable of arm64 Dualboots and Tethered Downgrades, all from within the app! Checkm8 is used to tether boot the second OS, after dualbooting/tether downgrading.
+
+Ramiel on macOS is required to boot the second OS.
+
+Divisé is a fork of Succession (made by samg_is_a_ninja), and it’s source code is available . Feel free to open pull requests/issues for anything!</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
