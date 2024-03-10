@@ -30,7 +30,7 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.old
 Package: com.opa334.trollstorehelper_2.0.7_iphoneos-arm64
 Version: 2.0.0-7
 Section: Utilities
-Maintainer: Reposi3 <reposithree@gmail.com>
+Maintainer: opa334
 Depends: firmware (>=14.0)
 Architecture: iphoneos-arm64
 Filename: ./debs/com.opa334.trollstorehelper_2.0.7_iphoneos-arm64.deb
@@ -38,23 +38,19 @@ Size: 1834
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: TrollStore 2 in a permasigned jailed app that can permanently install any IPA you open in it.
 Name: Troll Store Helper
-Author: Troll Store <email@email.com>
+Author: opa334
 Depiction: https://minowski.github.io/repo/depictions/?p=com.opa334.trollstorehelper_2.0.7_iphoneos-arm64
 
 Package: com.123maksmiernik.divise
 Version: 2.0.1-2
 Section: Utilities
-Maintainer: Reposi3 <reposithree@gmail.com>
+Maintainer: moski_dev
 Depends: firmware (>=10.3)
 Architecture: iphoneos-arm64
 Filename: ./debs/com.123maksmiernik.divise.deb
 Size: 2824
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: Divisé is a Coolbooter-esque app which is capable of arm64 Dualboots and Tethered Downgrades, all from within the app! Checkm8 is used to tether boot the second OS, after dualbooting/tether downgrading.
-
-Ramiel on macOS is required to boot the second OS.
-
-Divisé is a fork of Succession (made by samg_is_a_ninja), and it’s source code is available . Feel free to open pull requests/issues for anything!
+Description: Divisé is a Coolbooter-esque app which is capable of arm64 Dualboots and Tethered Downgrades, all from within the app!
 Name: Divisé
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.123maksmiernik.divise
+Author: moski_dev
+Depiction: https://minowski.github.io/repo/depictions/?p=com.opa334.trollstorehelper_2.0.7_iphoneos-arm64
