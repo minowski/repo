@@ -11,9 +11,17 @@
 	<dependencies>
 		
 	</dependencies>
-	<shortDescription>This is a TrollStore. Firmware should be greater than ios 13</shortDescription>
+	<shortDescription>TrollStore 2 in a permasigned jailed app that can permanently install any IPA you open in it.</shortDescription>
 	<descriptionlist>
-		<description>This is TrollStore the best way to sideload apps!</description>
+		<description>TrollStore Helper can be used to install TrollStore, a permasigned app installer, to your jailbroken device. Supports iOS 14.0 - 16.6.1, 17.0.
+
+Additionally only on iOS 14, TrollStore Helper can also be used to refresh the app registrations from TrollStore when they are no longer valid because iOS has rebuilt the icon cache, as TrollStore Helper is permasigned and can be launched even when not jailbroken.
+
+TrollStore Installation Guide:
+1. Install TrollStore Helper
+2. Open TrollHelper on the home screen
+3. Press "Install TrollStore" in the app
+4. Done, your device will respring and TrollStore should appear on your home screen</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
