@@ -1,27 +1,32 @@
 <package>
 	<id>com.123maksmiernik.divise</id>
-	<name>Old Package</name>
-	<version>1.0.1-2</version>
+	<name>Divisé</name>
+	<version>2.0.1-2</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>16.0</maxiOS>
-			<otherVersions>unconfirmed</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
+			<miniOS>10.3</miniOS>
+			<maxiOS>14.7</maxiOS>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		
+	</dependencies>
+	<shortDescription>arm64 Dualboots/Tethered Downgrades on device!</shortDescription>
 	<descriptionlist>
-		<description>Divisé is a Coolbooter-esque app which is capable of arm64 Dualboots and Tethered Downgrades, all from within the app! Checkm8 is used to tether boot the second OS, after dualbooting/tether downgrading.
+		<description><p>Divisé is a Coolbooter-esque app which is capable of arm64 Dualboots and Tethered Downgrades, all from within the app! Checkm8 is used to tether boot the second OS, after dualbooting/tether downgrading.</p>
 
-Ramiel on macOS is required to boot the second OS.
+<p>Ramiel on macOS is required to boot the second OS.</p>
+<p>Divisé is a fork of Succession (made by samg_is_a_ninja),</p>
 
-Divisé is a fork of Succession (made by samg_is_a_ninja), and it’s source code is available . Feel free to open pull requests/issues for anything!</description>
+</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			
+		</screenshot>				
+	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Devise</change>
 	</changelog>
-	<links></links>
+	
 </package>
