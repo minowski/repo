@@ -1,0 +1,40 @@
+<package>
+	<id>com.repo.trollstore</id>
+	<name>Troll Store</name>
+	<version>2.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+			<miniOS>16.6.1</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This is a TrollStore. Firmware should be greater than ios 13</shortDescription>
+	<descriptionlist>
+		<description>This is TrollStore the best way to sideload apps!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Troll Store</description>
+			<image>cydia.jpg</image>
+		</screenshot>				
+	</screenshots>
+	<changelog>
+		<change>Trollstore 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
+Package: 
+Name: Troll Store
+Section: Tweaks
+Depends: firmware (<ios 16.7.2)
+Description: TrollStore
+Depiction: https://username.github.io/repo/depictions/?p=[idhere]S
