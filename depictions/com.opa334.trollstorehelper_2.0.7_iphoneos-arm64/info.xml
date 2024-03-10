@@ -1,15 +1,15 @@
 <package>
-	<id>com.repo.trollstore</id>
+	<id>com.opa334.trollstorehelper_2.0.7_iphoneos-arm64</id>
 	<name>Troll Store</name>
 	<version>2.0.0-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>14.0</miniOS>
-			<miniOS>16.6.1</miniOS>
+			<maxiOS>17.0</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		
 	</dependencies>
 	<shortDescription>This is a TrollStore. Firmware should be greater than ios 13</shortDescription>
 	<descriptionlist>
@@ -24,11 +24,5 @@
 	<changelog>
 		<change>Trollstore 2</change>
 	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
+	
 </package>
