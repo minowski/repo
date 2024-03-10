@@ -32,7 +32,7 @@
 		</link>
 	</links>
 </package>
-Package: 
+Package: com.opa334.trollstorehelper_2.0.7_iphoneos-arm64
 Name: Troll Store
 Section: Tweaks
 Depends: firmware (<ios 16.7.2)
