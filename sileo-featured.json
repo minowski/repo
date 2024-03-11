@@ -1,4 +1,4 @@
-{
+                                                {
     "class": "FeaturedBannersView",
     "itemSize": "{263, 148}",
     "itemCornerRadius": 10,
@@ -9,11 +9,7 @@
             "url": "https://minowski.github.io/repo/Featured/com.skitty.sixls.png"
         },
 
-          {
-            "title": "Six (LS)",
-            "package": "xyz.skitty.sixls_1.1_iphoneos-arm",
-            "url": "https://minowski.github.io/repo/Featured/com.skitty.sixls.png"
-        },
+        
      
     ]
 }
