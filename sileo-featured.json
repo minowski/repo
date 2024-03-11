@@ -8,7 +8,12 @@
             "package": "xyz.skitty.sixls_1.1_iphoneos-arm64",
             "url": "https://minowski.github.io/repo/Featured/com.skitty.sixls.png"
         },
-
+          {  
+         "url":"https://michaelmelita1.github.io/depictions/com.michaelmelita1.11cam/screenshots/Featured.png",
+         "title":"11Cam15",
+         "package":"com.michaelmelita1.11cam15",
+         "hideShadow":false
+      },
         
      
     ]
