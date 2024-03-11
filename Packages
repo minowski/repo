@@ -57,13 +57,29 @@ Depiction: https://minowski.github.io/repo/depictions/?p=com.123maksmiernik.divi
 
 Package: xyz.skitty.sixls
 Name: Six (LS)
-Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)  | org.swift.libswift (>= 5.0)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), (>=12.2)  | org.swift.libswift (>= 5.0)
 Version: 1.1
-Architecture: iphoneos-arm iphoneos-arm64
+Architecture: iphoneos-arm
 Description: iOS 6 Style Lock Screen!
 Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls
 SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls/sileo.json
 Icon: https://skitty.xyz/repo/icons/xyz.skitty.sixls.png
+Filename: xyz.skitty.sixls_1.1_iphoneos-arm.deb
 Maintainer: Skitty
 Author: Skitty
 Section: Tweaks
+
+Package: xyz.skitty.sixls
+Name: Six (LS) Rootless
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)  | org.swift.libswift (>= 5.0)
+Version: 1.1
+Architecture: iphoneos-arm64
+Description: iOS 6 Style Lock Screen!
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls
+SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls/sileo.json
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.sixls.png
+Filename: xyz.skitty.sixls_1.1_iphoneos-arm64.deb
+Maintainer: Skitty
+Author: Skitty
+Section: Tweaks
+
