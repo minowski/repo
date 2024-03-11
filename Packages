@@ -1,46 +1,3 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
-
-Package: com.opa334.trollstorehelper_2.0.7_iphoneos-arm64
-Version: 2.0.0-7
-Section: Utilities
-Maintainer: opa334
-Depends: firmware (>=14.0)
-Architecture: iphoneos-arm64
-Filename: ./debs/com.opa334.trollstorehelper_2.0.7_iphoneos-arm64.deb
-Size: 1834
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: TrollStore 2 in a permasigned jailed app that can permanently install any IPA you open in it.
-Name: Troll Store Helper
-Author: opa334
-Depiction: https://minowski.github.io/repo/depictions/?p=com.opa334.trollstorehelper_2.0.7_iphoneos-arm64
-
 Package: com.123maksmiernik.divise
 Version: 2.0.1-2
 Section: Utilities
@@ -48,6 +5,7 @@ Maintainer: moski_dev
 Depends: firmware (>=10.3)
 Architecture: iphoneos-arm64
 Filename: ./debs/com.123maksmiernik.divise.deb
+Icon: ./icon/com.123maksmiernik.divise.png
 Size: 2824
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: Divisé is a Coolbooter-esque app which is capable of arm64 Dualboots and Tethered Downgrades, all from within the app!
@@ -97,6 +55,7 @@ SHA256: ba6b426e9be0e07bbe664d7fdb03ed076c1eb67e1e7e3c6634072fba9aa023ff
 Section: Tweaks
 Description: iPhone 11 Camera
 Author: Michael Melita
+Icon: ./icons/com.michaelmelita1.11cam14.png
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam14
 Name: 11Cam14
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam14/info.json
@@ -115,6 +74,52 @@ SHA256: cba3773082f437e94cb266ee119bc95e7856ebe2beab77192c3b0a368ecccbf4
 Section: Tweaks
 Description: New Camera app for iOS 15 & 16
 Author: Michael Melita, Flylarb & Ezekiel1998
+Icon: ./icons/com.michaelmelita1.11cam15.png
 Depiction: https://michaelmelita1.github.io/depictions/?p=com.michaelmelita1.11cam15
 Name: 11Cam15
 Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.michaelmelita1.11cam15/info.json
+
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.5.1)
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Homepage: https://cydia.akemi.ai/
+Provides: appsync, net.angelxwind.appsyncunified
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Package: ai.akemi.appsyncunified
+Name: AppSync Unified
+Version: 112.0
+Architecture: iphoneos-arm
+Filename: nodelete-ai.akemi.appsyncunified.deb
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: Sideloading
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.5.1)
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Homepage: https://cydia.akemi.ai/
+Provides: appsync, net.angelxwind.appsyncunified
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Package: ai.akemi.appsyncunified
+Name: AppSync Unified Rootless
+Filename: nodelete-rootless-ai.akemi.appsyncunified.deb
+Version: 112.0
+Architecture: iphoneos-arm64
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: Sideloading
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+
+Package: com.slugrail.ipainstaller
+Name: ipa installer
+Depends: firmware (>= 5.0), com.autopear.installipa (>= 3.4)
+Version: 3.23
+Architecture: iphoneos-arm
+Description: Install IPA files directly from device
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ipainstallerDp
+Icon: ./icons/com.slugrail.ipainstaller.png
+Filename: ./debs/ipainstaller_3.23.deb
+Maintainer: slugrail
+Author: srugrail
+Section: Sideloading
