@@ -105,7 +105,7 @@ Package: ai.akemi.appsyncunified
 Name: AppSync Unified
 Version: 112.0
 Architecture: iphoneos-arm
-Filename: nodelete-ai.akemi.appsyncunified.deb
+Filename: ./debs/nodelete-ai.akemi.appsyncunified.deb
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Section: Sideloading
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
