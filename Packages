@@ -119,7 +119,7 @@ Provides: appsync, net.angelxwind.appsyncunified
 Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
 Package: ai.akemi.appsyncunified
 Name: AppSync Unified Rootless
-Filename: nodelete-rootless-ai.akemi.appsyncunified.deb
+Filename: ./debs/nodelete-rootless-ai.akemi.appsyncunified.deb
 Version: 112.0
 Architecture: iphoneos-arm64
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
