@@ -2,3 +2,5 @@
 
 A Cydia Repo
 
+https://minowski.github.io/repo/
+
