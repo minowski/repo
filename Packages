@@ -64,7 +64,7 @@ Description: iOS 6 Style Lock Screen!
 Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls
 SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls/sileo.json
 Icon: https://skitty.xyz/repo/icons/xyz.skitty.sixls.png
-Filename: xyz.skitty.sixls_1.1_iphoneos-arm.deb
+Filename: ./debs/xyz.skitty.sixls_1.1_iphoneos-arm.deb
 Maintainer: Skitty
 Author: Skitty
 Section: Tweaks
@@ -78,7 +78,7 @@ Description: iOS 6 Style Lock Screen!
 Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls
 SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls/sileo.json
 Icon: https://skitty.xyz/repo/icons/xyz.skitty.sixls.png
-Filename: xyz.skitty.sixls_1.1_iphoneos-arm64.deb
+Filename: ./debs/xyz.skitty.sixls_1.1_iphoneos-arm64.deb
 Maintainer: Skitty
 Author: Skitty
 Section: Tweaks
