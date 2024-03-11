@@ -57,7 +57,7 @@ Depiction: https://minowski.github.io/repo/depictions/?p=com.123maksmiernik.divi
 
 Package: xyz.skitty.sixls
 Name: Six (LS)
-Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), firmware(>=12.2)  | org.swift.libswift (>= 5.0)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)  | org.swift.libswift (>= 5.0)
 Version: 1.1
 Architecture: iphoneos-arm iphoneos-arm64
 Description: iOS 6 Style Lock Screen!
