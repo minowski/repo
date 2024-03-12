@@ -1,0 +1,115 @@
+{
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Divisé is a Coolbooter-esque app which is capable of arm64 Dualboots and Tethered Downgrades, all from within the app! Checkm8 is used to tether boot the second OS, after dualbooting/tether downgrading.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://cdn.chariz.cloud/screenshot/divise/divise-1.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://cdn.chariz.cloud/screenshot/divise/divise-2.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://cdn.chariz.cloud/screenshot/divise/divise-3.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot3",
+                            "url": "https://cdn.chariz.cloud/screenshot/divise/divise-4.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot4",
+                            "url": "https://cdn.chariz.cloud/screenshot/divise/divise-5.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot5",
+                            "url": "https://cdn.chariz.cloud/screenshot/divise/divise-6.jpg"
+                        },
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown": "Divisé is a Coolbooter-esque app which is capable of arm64 Dualboots and Tethered Downgrades, all from within the app! Checkm8 is used to tether boot the second OS, after dualbooting/tether downgrading.",
+                    "class": "DepictionMarkdownView",
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "markdown": "Ramiel on macOS is required to boot the second OS.",
+                    "class": "DepictionMarkdownView",
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "markdown": "Divisé is a fork of Succession (made by samg_is_a_ninja)",
+                    "class": "DepictionMarkdownView",
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "2.0.1.2",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "03-12-2024",
+                    "class": "DepictionTableTextView",
+                    "title": "Last Updated"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "Moski",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details"
+        },
+        {
+			"tabname": "Changelog",
+			"views": [
+				{				
+					"title": "2.0.1.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				
+			],
+			"class": "DepictionStackView"
+		}
+    ],
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "headerImage": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.11cam15/screenshots/Banner1.png",
+    "tintColor": "#0657bb"
+}
