@@ -12,6 +12,7 @@ Description: TrollStore 2 in a permasigned jailed app that can permanently insta
 Name: Troll Store Helper
 Author: opa334
 Depiction: https://minowski.github.io/repo/depictions/?p=com.opa334.trollstorehelper_2.0.7_iphoneos-arm64
+SileoDepiction: https://minowski.github.io/repo/sileodepictions/com.opa334.trollstorehelper_2.0.7_iphoneos-arm64/info.json
 
 Package: com.123maksmiernik.divise
 Version: 2.0.1-2
@@ -26,7 +27,8 @@ MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: Divisé is a Coolbooter-esque app which is capable of arm64 Dualboots and Tethered Downgrades, all from within the app!
 Name: Divisé
 Author: moski_dev
-Depiction: https://minowski.github.io/repo/depictions/?p=com.123maksmiernik.divise
+Depiction: https://minowski.github.io/repo/
+SileoDepiction: https://minowski.github.io/repo/sileodepictions/com.123maksmiernik.divise/info.json
 
 Package: xyz.skitty.sixls
 Name: Six (LS)
