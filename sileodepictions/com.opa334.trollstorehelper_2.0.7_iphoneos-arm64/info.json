@@ -1,0 +1,110 @@
+{
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "TrollStore 2 in a permasigned jailed app that can permanently install any IPA you open in it.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://minowski.github.io/repo/depictions/com.opa334.trollstorehelper_2.0.7_iphoneos-arm64/screenshots/cydia.jpg"
+                        },
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://minowski.github.io/repo/depictions/com.opa334.trollstorehelper_2.0.7_iphoneos-arm64/screenshots/0.png"
+                        },
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown": "TrollStore Helper can be used to install TrollStore, a permasigned app installer, to your jailbroken device. Supports iOS 14.0 - 16.6.1, 17.0.",
+                    "class": "DepictionMarkdownView",
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "markdown": "Additionally only on iOS 14, TrollStore Helper can also be used to refresh the app registrations from TrollStore when they are no longer valid because iOS has rebuilt the icon cache, as TrollStore Helper is permasigned and can be launched even when not jailbroken.",
+                    "class": "DepictionMarkdownView",
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "markdown": "TrollStore Installation Guide:
+                    1. Install TrollStore Helper
+                    2. Open TrollHelper on the home screen
+                    3. Press "Install TrollStore" in the app
+                    4. Done, your device will respring and TrollStore should appear on your home screen",
+                    "class": "DepictionMarkdownView",
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "0.0.17",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "03-12-2024",
+                    "class": "DepictionTableTextView",
+                    "title": "Last Updated"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "opa334",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details"
+        },
+        {
+			"tabname": "Changelog",
+			"views": [
+				{				
+					"title": "2.0.0.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+			
+			],
+			"class": "DepictionStackView"
+		}
+    ],
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "headerImage": "https://michaelmelita1.github.io/depictions/com.michaelmelita1.11cam15/screenshots/Banner1.png",
+    "tintColor": "#0657bb"
+}
