@@ -1,0 +1,32 @@
+<package>
+	<id>com.skitty.sixls</id>
+	<name>Six (LS)</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		
+	</dependencies>
+	<shortDescription>iOS 6 lock screen for iOS 11 - 16</shortDescription>
+	<descriptionlist>
+		<description>Supports iOS 11 Through 16</description>
+		<description>Six (LS) brings the classic look of iOS 6 to your lock screen.</description>
+		<description>Current features: slide to unlock, notifications, charging view, sounds, and more!</description>
+
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+		<description>Six (LS)</description>
+			<image>https://skitty.xyz/repo/depictions/xyz.skitty.sixls/screenshots/1.png</image>
+			<image>https://skitty.xyz/repo/depictions/xyz.skitty.sixls/screenshots/2.png</image>
+			<image>https://skitty.xyz/repo/depictions/xyz.skitty.sixls/screenshots/3.png</image>
+		</screenshot>				
+	</screenshots>
+	<changelog>
+		<change>Devise</change>
+	</changelog>
+	
+</package>
