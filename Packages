@@ -112,7 +112,7 @@ Section: Sideloading
 Package: org.tihmstar.kDFUApp
 Name: kDFU App
 Depends: firmware (>= 6.0)
-Version: 1.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Description: kDFU App
 Filename: ./debs/org.tihmstar.kDFUApp-1.0.2.deb
