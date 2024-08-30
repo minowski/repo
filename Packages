@@ -109,12 +109,13 @@ Maintainer: slugrail
 Author: srugrail
 Section: Sideloading
 
-Package: org.tihmstar.kDFUApp
+Package: org.tihmstar.kDFUApp-1.0.2.deb
 Name: kDFU App
 Depends: firmware (>= 6.0)
-Version: 1.0.2
+Version: 1.1
 Architecture: iphoneos-arm
 Description: kDFU App
+Depiction: https://example.com
 Filename: ./debs/org.tihmstar.kDFUApp-1.0.2.deb
 Maintainer: Tihmstar
 Author: Tihmstar
